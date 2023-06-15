@@ -25,6 +25,10 @@ npm start
 
 A new browser window should automatically open displaying the app. If it doesn't, navigate to [http://localhost:3000/] in your browser
 
+or
+
+You can visit the live website at this link my-reads-sigma.vercel.app
+
 ## How to Use the App
 
 - Books are sorted into three categories: Currently Reading, Want to Read and Read
