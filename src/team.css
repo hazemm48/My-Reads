@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.Tcontainer{
+    margin-left: 20%;
+    margin-bottom: 30px;
+    width: 60%;
+    height: 235px;
+    background-color: #573ba2;
+    border-radius: 15px;
+}
+.tnav{
+    background-color: #573ba2;
+    margin-bottom: 40px;
+    height:90px;
+}
+
+.tnav span{
+    font-size: 40px;
+    font-family: 'Lobster';
+    color: white;
+    margin-left: 15px;
+    position: absolute;
+    top: 20px;
+}
+
+.thome{
+    right: 10%;
+}
+
+
+.tpage{
+    top: 0;
+}
+
+.grid-item img{
+    width: 200px;
+    height: 250px;
+    border-radius: 5%;
+    box-shadow:0px 5px 15px rgba(130, 130, 130, 0.381);
+}
+
+.memName{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    }
+.title{
+    position: absolute;
+    font-weight: bolder;
+    top: 15%;
+    left:38%;
+    font-size: 70px;
+    color: white;
+}
+
+.team{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 20em 20em 20em 20em;
+    grid-template-rows: 25em 25em;
+    justify-content:center;
+    background-color: rgb(37, 37, 37);
+}
+.grid-item{
+align-items: center;
+text-align: center;
+display: block;
+}
