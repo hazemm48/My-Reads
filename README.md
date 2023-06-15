@@ -27,7 +27,7 @@ A new browser window should automatically open displaying the app. If it doesn't
 
 or
 
-You can visit the live website at this link my-reads-sigma.vercel.app
+You can visit the live website at this link https://my-reads-sigma.vercel.app
 
 ## How to Use the App
 
